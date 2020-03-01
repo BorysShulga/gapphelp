@@ -1,0 +1,73 @@
+{
+"people": [
+    {
+	"name":"Neo",
+	"age": 35,
+	"gender":"Male",
+	"dress_code":"#000000",
+     	"addrass":{
+		"cyty":"New York City",
+		"street":"Second Av",
+		"number":69,
+		"zipCode":"212"
+		},
+	"phone":["1770835892","163645678"],
+	"has_JSON_badge":false
+    },
+
+
+
+    {
+	"name":"Trinity",
+	"age":40,
+	"gender":"Female",
+	"dress_code":"#000000",
+	"addrass":{
+		"cyty":"Barcelona",
+		"street":"Diagonal",
+		"number":69,
+		"zipCode":"08005"
+		},
+	"phone":["677083589","63645678"],
+	"has_JSON_badge":false
+    },
+
+
+
+    {
+	"name":"Morfeo",
+	"age":50,
+	"gender":"Male",
+	"dress_code":"#000000",
+	"addrass":{
+		"cyty":"Canalization ship",
+		"street":"-",
+		"number":0,
+		"zipCode":"0"
+			},
+	"phone":["677083589","63645678"],
+	"has_JSON_badge":false
+    },
+
+
+
+
+    {
+	"name":"Persefone",
+	"age":28,
+	"gender":"Female",
+	"dress_code":"#FFFFFF",
+	"addrass":{
+		"cyty":"Barcelona",
+		"street":"Diagonal",
+		"number":69,
+		"zipCode":"08005"
+		      },
+	"phone":["677083589","63645678"],
+	"has_JSON_badge":false
+    }
+
+
+
+  ]
+}
